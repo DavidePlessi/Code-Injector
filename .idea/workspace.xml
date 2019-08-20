@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13b3e88c-3abc-4a5f-b3c3-7df5fb13946e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/base/worker/workerMain.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/base/worker/workerMain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/apex/apex.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/apex/apex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/azcli/azcli.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/azcli/azcli.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/bat/bat.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/bat/bat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/clojure/clojure.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/clojure/clojure.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/coffee/coffee.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/coffee/coffee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/cpp/cpp.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/cpp/cpp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/csharp/csharp.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/csharp/csharp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/csp/csp.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/csp/csp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/css/css.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/css/css.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/dockerfile/dockerfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/dockerfile/dockerfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/fsharp/fsharp.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/fsharp/fsharp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/go/go.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/go/go.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/graphql/graphql.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/graphql/graphql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/handlebars/handlebars.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/handlebars/handlebars.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/html/html.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/html/html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/ini/ini.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/ini/ini.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/java/java.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/java/java.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/javascript/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/javascript/javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/kotlin/kotlin.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/kotlin/kotlin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/less/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/less/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/lua/lua.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/lua/lua.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/markdown/markdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/markdown/markdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/msdax/msdax.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/msdax/msdax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/mysql/mysql.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/mysql/mysql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/objective-c/objective-c.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/objective-c/objective-c.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/pascal/pascal.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/pascal/pascal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/perl/perl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/perl/perl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/pgsql/pgsql.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/pgsql/pgsql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/php/php.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/php/php.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/postiats/postiats.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/postiats/postiats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/powerquery/powerquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/powerquery/powerquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/powershell/powershell.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/powershell/powershell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/pug/pug.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/pug/pug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/python/python.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/python/python.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/r/r.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/r/r.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/razor/razor.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/razor/razor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/redis/redis.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/redis/redis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/redshift/redshift.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/redshift/redshift.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/ruby/ruby.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/ruby/ruby.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/rust/rust.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/rust/rust.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/sb/sb.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/sb/sb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/scheme/scheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/scheme/scheme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/scss/scss.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/scss/scss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/shell/shell.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/shell/shell.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/solidity/solidity.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/solidity/solidity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/sql/sql.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/sql/sql.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/st/st.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/st/st.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/swift/swift.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/swift/swift.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/tcl/tcl.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/tcl/tcl.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/typescript/typescript.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/typescript/typescript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/vb/vb.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/vb/vb.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/xml/xml.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/xml/xml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/basic-languages/yaml/yaml.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/basic-languages/yaml/yaml.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.de.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.de.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.es.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.es.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.fr.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.fr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.it.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.it.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.ja.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.ja.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.ko.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.ko.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.ru.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.ru.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.zh-cn.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.zh-cn.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.zh-tw.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/editor/editor.main.nls.zh-tw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/css/cssMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/css/cssMode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/css/cssWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/css/cssWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/html/htmlMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/html/htmlMode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/html/htmlWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/html/htmlWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/json/jsonMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/json/jsonMode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/json/jsonWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/json/jsonWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/typescript/tsMode.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/typescript/tsMode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/language/typescript/tsWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/language/typescript/tsWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/script/vs/loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/script/vs/loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style/browser-action.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style/browser-action.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style/options-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/style/options-ui.min.css" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-83">
+              <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/Code-Injector.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="-14" />
+    <option name="width" value="2764" />
+    <option name="height" value="1799" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Code-Injector" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Injector" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b3e88c-3abc-4a5f-b3c3-7df5fb13946e" name="Default Changelist" comment="" />
+      <created>1566298337923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566298337923</updated>
+      <workItem from="1566298340004" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="351000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Grunt " side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/grunt/bin/grunt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start-grunt.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-83">
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
